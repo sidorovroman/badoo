@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Badoo</string>
+    <string name="sum_1">Total: £ %.2f</string>
+    <string name="transactions_1">%d transactions</string>
+    <string name="transaction_for_1">Transactions for %s</string>
+</resources>
